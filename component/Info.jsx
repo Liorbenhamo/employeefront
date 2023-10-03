@@ -2,7 +2,7 @@ import React from 'react'
 import { useState } from "react";
 import { useForm } from "react-hook-form";
 import axios from "axios";
-import "./info.css";
+
 
 function Info() {
     const { register, handleSubmit } = useForm();
