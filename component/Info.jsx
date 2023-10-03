@@ -51,7 +51,7 @@ function Info() {
         </form>
       </div>
         <div className="signup-form">
-              <div className="text sign-up-text">fbdhvfhdfhdbffghgf? <label for="flip">Lsdfgsdfgfdgdgfsdrdsedfdfgdfgow</label></div>
+              <div className="text sign-up-text">                    <label for="flip">                               </label></div>
     </div>
     </div>
     </div>
