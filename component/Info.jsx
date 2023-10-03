@@ -11,7 +11,7 @@ function Info() {
     <div className="container">
     <div className="cover">
       <div className="front">
-        <img src="./images/photo.png" alt=""/>
+        <img src="https://res.cloudinary.com/dbhkoyzin/image/upload/v1696332136/uxqbekjzaulib6qbc8an.png" alt=""/>
         <div className="text">
           <span className="text-2">מחכים לשמוע ממך</span>
         </div>
